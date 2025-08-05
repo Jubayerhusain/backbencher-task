@@ -7,7 +7,6 @@ body {
 }
 
 /* shared classes */
-
 .btn {
   background-color: #ff6600;
   color: white;
@@ -49,7 +48,6 @@ body {
   justify-content: space-between;
   padding: 15px 60px;
   background-color: white;
-  border-top: 3px solid orange;
   position: relative;
 }
 
@@ -71,7 +69,7 @@ body {
   text-decoration: none;
   color: black;
   font-weight: 500;
-  font-size: 14px;
+  font-size: 16px;
   padding: 4px 8px;
   border-radius: 9999px;
   border: 1px solid transparent;
@@ -146,11 +144,11 @@ body {
 .happy-customers span {
   color: black;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .hero h1 {
-  font-size: 48px;
+  font-size: 64px;
   line-height: 1.2;
   font-weight: bold;
   margin: 0 0 20px;
